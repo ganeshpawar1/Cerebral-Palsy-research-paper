@@ -1,0 +1,6 @@
+dropout_rate: 0.4
+latent_dim: 24
+units_0: 104
+units_1: 16
+units_2: 24
+units_3: 16

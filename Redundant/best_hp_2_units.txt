@@ -1,0 +1,16 @@
+|Best Value So Far |Hyperparameter|
+===================================
+|112               |units_0       |
+|16                |units_1       |
+|0.2               |dropout_rate  |
+|16                |latent_dim    |
+
+
+for 3 units
+|Best Value So Far |Hyperparameter
+==================================
+|96                |units_0
+|16                |units_1
+|96                |units_2
+|0.4               |dropout_rate
+|24                |latent_dim
